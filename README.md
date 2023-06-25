@@ -50,7 +50,7 @@ There was no difficult parts. I think I spent the most time with CRUD operation.
 4. What are key things to consider when deploying this application for customer
    use/production?
 ```text
-
+Software deployment process mainly consists of 3 stages – development, testing and monitoring.
 ```
 
 ### Feedback
